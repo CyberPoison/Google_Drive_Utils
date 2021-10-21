@@ -1,0 +1,10 @@
+oauth2client
+google-api-python-client
+progress
+progressbar2
+httplib2shim
+google_auth_oauthlib
+urllib3
+protobuf
+psutil
+filelock
